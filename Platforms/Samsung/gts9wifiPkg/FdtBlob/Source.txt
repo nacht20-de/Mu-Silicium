@@ -1,0 +1,1 @@
+DTB compiled from the out-of-tree mainline-based gts9wifi device tree (sm8550-samsung-gts9wifi.dts).
